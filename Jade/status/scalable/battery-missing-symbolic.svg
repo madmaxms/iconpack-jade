@@ -1,96 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.48.1 r9760"
-   version="1.0"
-   sodipodi:docname="battery-missing-symbolic.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   style="display:inline">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#fd0000"
-     borderopacity="1"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="15.810166"
-     inkscape:cx="-28.874605"
-     inkscape:cy="1.4258958"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     inkscape:showpageshadow="false"
-     showguides="false"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1028"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1">
-    <sodipodi:guide
-       orientation="1,0"
-       position="0,112"
-       id="guide2383" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="26.278146,128"
-       id="guide2385" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="128,54.082119"
-       id="guide2387" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="78.156291,0"
-       id="guide2389" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="60.863576,64.084768"
-       id="guide2391" />
-    <inkscape:grid
-       type="xygrid"
-       id="grid3672"
-       visible="true"
-       enabled="true"
-       empspacing="8"
-       snapvisiblegridlinesonly="true" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Icon"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline"
-     transform="translate(0,-6)">
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline;opacity:0.45"
-       d="M 2,20.75 C 2,21.4425 2.5575,22 3.25,22 l 8.5,0 C 12.4425,22 13,21.4425 13,20.75 L 13,9.25 C 13,8.5575 12.4425,8 11.75,8 L 10,8 10,7 10,6.5 C 10,6.223 9.777,6 9.5,6 L 9,6 6,6 5.5,6 C 5.223,6 5,6.223 5,6.5 L 5,7 5,8 3.25,8 C 2.5575,8 2,8.5575 2,9.25 l 0,11.5 z m 2,-1.5 0,-8.5 C 4,10.3345 4.3345,10 4.75,10 l 5.5,0 c 0.4155,0 0.75,0.3345 0.75,0.75 l 0,8.5 C 11,19.6655 10.6655,20 10.25,20 l -5.5,0 C 4.3345,20 4,19.6655 4,19.25 z"
-       id="path3775" />
-  </g>
+<svg id="svg7384" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <metadata id="metadata90">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Gnome Symbolic Icon Theme</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title id="title9167">Gnome Symbolic Icon Theme</title>
+ <g id="layer9" transform="translate(-121 -217)">
+  <path id="path5256" style="opacity:.35;block-progression:tb;text-indent:0;color:#bebebe;text-transform:none;fill:#bebebe" d="m126.47 217c-0.49202 0-0.79615 0.22777-1.0312 0.46875-0.2351 0.24098-0.4375 0.55884-0.4375 1.0312v0.5h-1-1v1 12 1h1 10 1v-1-12-1h-1-1v-0.375-0.0312-0.0312c-0.0239-0.43046-0.17041-0.72033-0.40625-1-0.22357-0.26511-0.62489-0.52941-1.1562-0.53125v-0.0312h-0.0625-4.9062zm0.53125 2h4v1 0.53125c0.22927 0.13183 0.42611 0.29608 0.625 0.46875h0.375 1v2.75 0.0312 0.0312 7.1875h-2.2812c-0.0883 0.15116-0.18924 0.28299-0.3125 0.40625s-0.25509 0.22419-0.40625 0.3125c-0.1191 0.0711-0.24126 0.14268-0.375 0.1875-0.031 0.0103-0.0621 0.0225-0.0937 0.0312-0.0403 0.0113-0.0836 0.0225-0.125 0.0312-0.12939 0.0269-0.26966 0.0312-0.40625 0.0312-0.18098 0-0.36372-0.016-0.53125-0.0625-0.032-0.009-0.0624-0.0207-0.0937-0.0312-0.13243-0.044-0.25597-0.11796-0.375-0.1875-0.15116-0.0883-0.28299-0.18924-0.40625-0.3125s-0.22419-0.25509-0.3125-0.40625h-2.2812v-6.9375-3.0625h1 0.3125c0.20941-0.18355 0.44239-0.33113 0.6875-0.46875v-0.53125-1z"/>
+  <path id="path19592-2-3" style="color:#bebebe;fill:#bebebe" d="m128.82 221c1.6424-0.092 3.0955 1.1701 3.1875 2.8125-0.0001 1.4014-0.37771 1.9218-1.5938 2.8438-0.19093 0.14364-0.3256 0.2506-0.375 0.3125-0.0494 0.0621-0.0312 0.0332-0.0312 0.0312 0.007 0.52831-0.47163 1-1 1s-1.007-0.47169-1-1c0-0.50239 0.22424-0.94342 0.46875-1.25 0.24451-0.30663 0.4913-0.51638 0.71875-0.6875 0.20405-0.16056 0.46083-0.38454 0.6875-0.65625 0.0935-0.1121 0.129-0.30766 0.125-0.4375v-0.0312c-0.0316-0.56324-0.49926-0.9691-1.0625-0.9375s-0.9691 0.43676-0.9375 1h-2c-0.092-1.6424 1.1701-2.9079 2.8125-3zm0.1875 8c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z"/>
+ </g>
 </svg>
