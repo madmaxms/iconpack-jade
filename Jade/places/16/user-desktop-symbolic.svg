@@ -1,1 +1,67 @@
-desktop-symbolic.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user-desktop-symbolic.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1624"
+     inkscape:window-height="977"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="6.26171"
+     inkscape:cy="5.2090649"
+     inkscape:window-x="190"
+     inkscape:window-y="195"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <path
+     style="fill:#bebebe"
+     d="M 1,2 C 0.4567535,2 0,2.4346564 0,3 l 0,9 15.999875,0 0,-9 C 15.999875,2.469675 15.54584,2 15,2 Z M 2,4 3,4 4,5 4,6 2,6 Z M 2,7 3,7 4,8 4,9 2,9 Z m -2,6 0,1 c 0,0.541568 0.45832204,1 1,1 l 14,0 c 0.541668,0 0.999875,-0.480429 0.999875,-1 l 0,-1 z"
+     id="path5441"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssccssscccccccccccccsssscc" />
+  <g
+     id="layer13"
+     transform="translate(379 -515)" />
+  <g
+     id="layer13-3"
+     transform="matrix(0.89213962,0,0,0.94247439,339.12203,-485.45433)"
+     style="fill:#000000;fill-opacity:1" />
+</svg>

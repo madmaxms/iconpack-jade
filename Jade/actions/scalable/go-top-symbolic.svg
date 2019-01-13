@@ -14,9 +14,9 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.1 r9760"
    version="1.0"
-   sodipodi:docname="go-bottom.svg"
+   sodipodi:docname="go-top.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4">
@@ -29,11 +29,11 @@
        id="perspective18" />
     <linearGradient
        id="StandardGradient"
-       gradientTransform="scale(0.915489,1.0923124)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="12.802542"
+       gradientTransform="matrix(0.915489,0,0,-1.0923124,0,16)"
+       x1="6.5538745"
+       y1="12.745323"
+       x2="6.5538745"
+       y2="1.8236783"
        gradientUnits="userSpaceOnUse">
       <stop
          id="stop3284"
@@ -54,110 +54,100 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#StandardGradient"
-       id="linearGradient3627"
+       id="linearGradient3626"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.915489,0,0,1.0923124,-20,0)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="12.802542" />
+       gradientTransform="matrix(0.915489,0,0,-1.0923124,-20,16)"
+       x1="6.5538745"
+       y1="12.745323"
+       x2="6.5538745"
+       y2="1.8236783" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath3640">
+       id="clipPath3633">
       <path
          style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline"
-         d="m -20,0 0,16 16,0 0,-16 -16,0 z m 5.96875,2.03125 4.0625,0 -0.03125,3.9375 3,0 -5,8.03125 -5,-8.03125 2.96875,0 0,-3.9375 z"
-         id="path3642" />
+         d="m -20,0 0,16 16,0 0,-16 -16,0 z m 8,2 5,8.03125 -3,0 0.03125,3.96875 -4.0625,0 0,-3.96875 -2.96875,0 L -12,2 z"
+         id="path3635" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#StandardGradient"
        id="linearGradient2841"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.915489,0,0,1.0923124,0,-1)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="12.802542" />
+       gradientTransform="matrix(0.915489,0,0,-1.0923124,0,17)"
+       x1="6.5538745"
+       y1="12.745323"
+       x2="6.5538745"
+       y2="1.8236783" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#StandardGradient"
-       id="linearGradient3625"
+       id="linearGradient2854"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.915489,1.0923124)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="14.647824" />
+       gradientTransform="matrix(0.915489,0,0,-1.0923124,0,17)"
+       x1="6.5538745"
+       y1="12.745323"
+       x2="6.5538745"
+       y2="1.8236783" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#StandardGradient"
-       id="linearGradient3629"
+       id="linearGradient2861"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.915489,0,0,1.0923124,0,-1)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="14.647824" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#StandardGradient"
-       id="linearGradient3634"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.915489,0,0,1.0923124,-20,-1)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="14.647824" />
+       gradientTransform="matrix(0.915489,0,0,-1.0923124,-20,17)"
+       x1="6.5538745"
+       y1="14.647824"
+       x2="6.5538745"
+       y2="1.8236783" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath3643">
+       id="clipPath2868">
       <path
          style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline"
-         d="m -20,0 0,16 16,0 0,-16 -16,0 z m 5.96875,1.03125 4.0625,0 0,3.9375 2.96875,0 -5,8.03125 5,0 0,2 -10,0 0,-2 5,0 -5,-8.03125 2.96875,0 0,-3.9375 z"
-         id="path3645" />
+         d="m -20,0 0,16 16,0 0,-16 -16,0 z m 3,1 10,0 0,2 -5,0 5,8.03125 -2.96875,0 0,3.96875 -4.0625,0 0,-3.96875 -2.96875,0 L -12,3 l -5,0 0,-2 z"
+         id="path2870" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#StandardGradient"
-       id="linearGradient4993"
+       id="linearGradient3182"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.915489,0,0,1.0923124,0,-1)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="14.647824" />
+       gradientTransform="matrix(0.915489,0,0,-1.0923124,0,17)"
+       x1="6.5538745"
+       y1="14.647824"
+       x2="6.5538745"
+       y2="1.8236783" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#StandardGradient"
-       id="linearGradient4997"
+       id="linearGradient3186"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.915489,0,0,1.0923124,0,-1)"
-       x1="8.7384996"
-       y1="1.8452826"
-       x2="8.7384996"
-       y2="14.647824" />
+       gradientTransform="matrix(0.915489,0,0,-1.0923124,0,17)"
+       x1="6.5538745"
+       y1="14.647824"
+       x2="6.5538745"
+       y2="1.8236783" />
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#545459"
-     bordercolor="#000000"
+     pagecolor="#ffffff"
+     bordercolor="#9a9a9a"
      borderopacity="1"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="35.157114"
-     inkscape:cx="4.2815701"
-     inkscape:cy="9.3189304"
+     inkscape:zoom="24.785766"
+     inkscape:cx="-5.3613277"
+     inkscape:cy="6.9763585"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="true"
-     inkscape:showpageshadow="true"
+     inkscape:showpageshadow="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -179,9 +169,7 @@
        type="xygrid"
        id="grid3672"
        visible="true"
-       enabled="true"
-       empspacing="5"
-       snapvisiblegridlinesonly="true" />
+       enabled="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -191,7 +179,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,8 +189,7 @@
      style="display:inline">
     <path
        style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-       d="m 5.96875,15 0,-3.9375 -2.96875,0 5,-8.03125 5,8.03125 -2.96875,0 0,3.9375 -4.0625,0 z M 8,3.03125 l -5,0 0,-2 10,0 0,2 -5,0 z"
-       id="Symbol"
-       inkscape:connector-curvature="0" />
+       d="M 3 1 L 3 3 L 8 3 L 13 3 L 13 1 L 3 1 z M 8 3 L 3 11.03125 L 5.96875 11.03125 L 5.96875 15 L 10.03125 15 L 10.03125 11.03125 L 13 11.03125 L 8 3 z "
+       id="Symbol" />
   </g>
 </svg>
