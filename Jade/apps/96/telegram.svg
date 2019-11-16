@@ -6,12 +6,47 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2408"
    height="96"
    width="96"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="telegram.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     id="namedview87"
+     showgrid="false"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="46.03855"
+     inkscape:cy="23.463856"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2410">
+    <linearGradient
+       id="linearGradient898">
+      <stop
+         id="stop894"
+         style="stop-color:#076d8d;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop896"
+         style="stop-color:#0297c8;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient10410">
       <stop
@@ -165,7 +200,7 @@
     </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient3715"
+       xlink:href="#linearGradient898"
        id="linearGradient3617"
        y2="5.9877172"
        x2="48"
@@ -373,7 +408,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
